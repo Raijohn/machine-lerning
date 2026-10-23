@@ -1,6 +1,6 @@
 
 
-def icecream(score,day,temp,match,weather):
+def icecream(score,day,temp,match,weather):d
     if day == "saturday" or "sat":
         score == 0
 
